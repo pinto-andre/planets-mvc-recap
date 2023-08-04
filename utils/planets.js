@@ -53,6 +53,7 @@ const planets = [
 	  distance: 0,
 	  description: "The Sun (or Sol), is the star at the centre of our solar system and is responsible for the Earth’s climate and weather. The Sun is an almost perfect sphere with a difference of just 10km in diameter between the poles and the equator. The average radius of the Sun is 695,508 km (109.2 x that of the Earth) of which 20–25% is the core."
 	}
+	
 ]
 
 module.exports = planets;
